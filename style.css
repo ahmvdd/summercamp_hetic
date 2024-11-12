@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f5f5f5;
+}
+
+.container {
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+    width: 300px;
+    text-align: center;
+    color: white;
+}
+
+.version {
+    background-color: red;
+}
