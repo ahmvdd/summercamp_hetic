@@ -17,5 +17,12 @@ body {
 }
 
 .version {
-    background-color: red;
+    background-color: rgb(16, 181, 27);
+}
+
+.button{
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 5%;
+    background-color: antiquewhite;
 }
